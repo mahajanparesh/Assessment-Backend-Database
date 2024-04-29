@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\models\\userpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:models\\userpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\models\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:models\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\models\\angulardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:models\\angulardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\insuranceapiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:insuranceapiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\models\\policydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:models\\policydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\models\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:models\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|c:\\users\\heman\\source\\repos\\insuranceapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D32F86A0-351F-4B21-9F8A-0D7CE2989712}|InsuranceAPIApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PolicyDetail.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\PolicyDetail.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyDetail.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\PolicyDetail.cs",
+              "RelativeToolTip": "Models\\PolicyDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:51:30.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsuranceAPIApp",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\InsuranceAPIApp.csproj",
+              "RelativeDocumentMoniker": "InsuranceAPIApp.csproj",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\InsuranceAPIApp.csproj",
+              "RelativeToolTip": "InsuranceAPIApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T08:57:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAuth.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\UserAuth.cs",
+              "RelativeDocumentMoniker": "Models\\UserAuth.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\UserAuth.cs",
+              "RelativeToolTip": "Models\\UserAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:46:34.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:23:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:46:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDetail.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\EmployeeDetail.cs",
+              "RelativeToolTip": "Models\\EmployeeDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:21:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:09:34.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:49:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:09:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\UserPolicy.cs",
+              "RelativeDocumentMoniker": "Models\\UserPolicy.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\UserPolicy.cs",
+              "RelativeToolTip": "Models\\UserPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:23:52.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AngularDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\AngularDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AngularDbContext.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\Models\\AngularDbContext.cs",
+              "RelativeToolTip": "Models\\AngularDbContext.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAqwB0AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:21:40.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T04:23:14.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\InsuranceAPIApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:23:12.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
