@@ -107,19 +107,19 @@ namespace InsuranceAPIApp.Controllers
 
             return Ok(isDeleted);
         }
-        [HttpPut("{paymentId}")]
-        public async Task<ActionResult<bool>> UpdatePayment(int paymentId, [FromBody] PaymentInputModel paymentInput)
+        [HttpPut("Payment")]
+        public async Task<ActionResult<bool>> UpdatePayment([FromBody] PaymentInputModel paymentInput)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest("Invalid payment data.");
             }
 
-            var payment = await _context.PaymentDetails.FindAsync(paymentId);
+            var payment = await _context.PaymentDetails.FindAsync(paymentInput.id);
 
             if (payment == null)
             {
-                return NotFound($"Payment with ID {paymentId} not found.");
+                return NotFound($"Payment with ID {paymentInput.id} not found.");
             }
 
             // Update payment details with new input
@@ -133,6 +133,7 @@ namespace InsuranceAPIApp.Controllers
             return Ok(true);
         }
 
+
         public class PaymentInputModel
         {
             public string CardOwnerName { get; set; }
@@ -140,6 +141,8 @@ namespace InsuranceAPIApp.Controllers
             public string SecurityCode { get; set; }
             public DateTime ValidThrough { get; set; }
             public int UserId { get; set; }
+
+            public int id { get; set; }
         }
 
 
